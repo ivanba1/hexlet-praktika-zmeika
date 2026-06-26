@@ -1,3 +1,4 @@
+[![Maintainability](https://api.codeclimate.com/v1/badges/e3224a76-0f88-4251-a5be-27bfd5affe23/maintainability)](https://codeclimate.com/github/ivanba1/hexlet-praktika-zmeika/maintainability)
 # 🐍 Игра «Змейка» с сохранением рекордов
 
 Классическая игра, дополненная серверной частью для хранения топ-10 рекордов в базе данных. Проект выполнен в рамках производственных практик **ПМ.02** (интеграция модулей) и **ПМ.11** (разработка, администрирование и защита БД).
@@ -20,7 +21,6 @@
 1. Клонируйте репозиторий:
    ```bash
    git clone https://github.com/ivanba1/hexlet-praktika-zmeika
-   cd snake-game
 
 ## 🎮 Управление
 Стрелки (↑ ↓ ← →) — управление направлением движения змейки.
