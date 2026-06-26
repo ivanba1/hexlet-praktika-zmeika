@@ -7,7 +7,7 @@ const GRID_SIZE = 20;
 const TICK_INTERVAL = 130;
 
 //API
-const API_URL = 'http://localhost:5000/api/scores';
+const API_URL = 'https://hexlet-praktika-zmeika.onrender.com';
 
 //Переменные состояния
 let snake = [];
