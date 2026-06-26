@@ -5,7 +5,7 @@
 
 ## 🚀 Демо
 
-https://ivanba1.github.io/hexlet-praktika-zmeika/ – замените после выкладки.
+https://hexlet-praktika-zmeika.onrender.com
 
 ## 📦 Стек технологий
 
