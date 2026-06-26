@@ -19,7 +19,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ваш-username/snake-game.git
+   git clone https://github.com/ivanba1/hexlet-praktika-zmeika
    cd snake-game
 
 ## 🎮 Управление
